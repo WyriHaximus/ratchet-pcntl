@@ -1,0 +1,43 @@
+{
+    "name": "wyrihaximus/ratchet-pcntl",
+    "type":"cakephp-plugin",
+    "description": "Add OS signaling to ratchet for CakePHP",
+    "homepage": "http://wyrihaximus.net/projects/cakephp/ratchet.html",
+    "license": "MIT",
+    "keywords": [
+        "cakephp",
+        "ratchet",
+        "websockets",
+        "cakephp3"
+    ],
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com",
+            "homepage": "http://wyrihaximus.net/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "cakephp/cakephp": "^3.0",
+        "mkraemer/react-pcntl": "^2.0",
+        "wyrihaximus/ratchet": "dev-master"
+    },
+    "require-dev": {
+        "cakephp/debug_kit": "^3.0",
+        "phpunit/phpunit": "^4.7",
+        "squizlabs/php_codesniffer": "^1.5.6",
+        "vectorface/dunit": "^2.0",
+        "phake/phake": "^2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "WyriHaximus\\Ratchet\\PCNTL\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WyriHaximus\\Ratchet\\Tests\\PCNTL\\": "tests/"
+        }
+    }
+}
