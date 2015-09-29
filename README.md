@@ -1,11 +1,12 @@
 HtmlCompress
 ============
 
-[![Build Status](https://travis-ci.org/WyriHaximus/HtmlCompress.png)](https://travis-ci.org/WyriHaximus/HtmlCompress)
-[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/html-compress/v/stable.png)](https://packagist.org/packages/WyriHaximus/html-compress)
-[![Total Downloads](https://poser.pugx.org/WyriHaximus/html-compress/downloads.png)](https://packagist.org/packages/WyriHaximus/html-compress)
-[![Coverage Status](https://coveralls.io/repos/WyriHaximus/HtmlCompress/badge.png)](https://coveralls.io/r/WyriHaximus/HtmlCompress)
-[![License](https://poser.pugx.org/wyrihaximus/html-compress/license.png)](https://packagist.org/packages/wyrihaximus/html-compress)
+[![Build Status](https://travis-ci.org/WyriHaximus/ratchet-pcntl.png)](https://travis-ci.org/WyriHaximus/ratchet-pcntl)
+[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/ratchet-pcntl/v/stable.png)](https://packagist.org/packages/WyriHaximus/ratchet-pcntl)
+[![Total Downloads](https://poser.pugx.org/wyrihaximus/ratchet-pcntl/downloads.png)](https://packagist.org/packages/wyrihaximus/ratchet-pcntl)
+[![Code Coverage](https://scrutinizer-ci.com/g/WyriHaximus/ratchet-pcntl/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WyriHaximus/ratchet-pcntl/?branch=master)
+[![License](https://poser.pugx.org/wyrihaximus/ratchet-pcntl/license.png)](https://packagist.org/packages/wyrihaximus/ratchet-pcntl)
+[![PHP 7 ready](http://php7ready.timesplinter.ch/WyriHaximus/ratchet-pcntl/badge.svg)](https://travis-ci.org/WyriHaximus/ratchet-pcntl)
 
 ## Installation ##
 
