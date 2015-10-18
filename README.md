@@ -16,9 +16,9 @@ To install via [Composer](http://getcomposer.org/), use the command below, it wi
 composer require wyrihaximus/ratchet-pcntl 
 ```
 
-## Bootstrap ##
+## Bootstrap CLI ##
 
-Add the following to your `config/bootstrap.php` to load the plugin.
+Add the following to your `config/bootstrap_cli.php` to load the plugin.
 
 ```php
 Plugin::load('WyriHaximus/Ratchet/PCNTL', [
